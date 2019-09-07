@@ -64,3 +64,27 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+a {
+	color: gray;
+	padding: 30px;
+}
+
+.logo {
+	margin-top: 0px;
+	margin-bottom:20px;
+	margin-right: 20px;
+	padding-left: 900px;
+}
+
+.codesnip {
+	margin-top: 0px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	margin-left: 730px;
+}
+
+.bigword {
+	font-size: 50px;
+	
+}
