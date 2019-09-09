@@ -99,7 +99,7 @@ a {
 }
 
 .section3 {
-	border: 2px solid red;
+	/*border: 2px solid red;*/
 }
 
 .section3a {
@@ -108,6 +108,8 @@ a {
     width: 23%;
     min-width: 150px;
 	vertical-align: middle;
+	/*border: 2px solid red;*/
+	
 }
 
 .section3b {
@@ -116,8 +118,44 @@ a {
     width: 23%;
 	min-width: 150px;
 	vertical-align: middle;
+	margin-left: 300px;
+	/*border: 2px solid red;*/
 }
 
+.middle-image {
+	padding-left: 100px;
+	
+}
+
+.section4 {
+	/*border: 2px solid red;*/
+}
+
+.section4a {
+	display: inline-block;
+	margin: 1%;
+    width: 23%;
+	min-width: 150px;
+}
+
+.section4b {
+	display: inline-block;
+	margin: 1%;
+    width: 23%;
+	min-width: 150px;
+}
+
+.section4c {
+	display: inline-block;
+	margin: 1%;
+    width: 23%;
+	min-width: 150px;
+}
+
+footer {
+	text-align: center;
+	padding-bottom: 50px;
+}
 
 
 
